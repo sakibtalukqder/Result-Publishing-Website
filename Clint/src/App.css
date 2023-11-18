@@ -1,0 +1,14 @@
+@media print {
+    @page {
+        size: landscape;
+    }
+
+    .content-print {
+        padding: 3rem;
+        margin-top: 4rem;
+    }
+}
+
+.active {
+    color: orangered;
+}

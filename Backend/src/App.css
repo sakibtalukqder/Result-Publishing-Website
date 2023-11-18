@@ -1,0 +1,16 @@
+*{
+    /* font-family: cursive; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.active {
+    color: rgb(69, 244, 136);
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&family=Nunito:wght@200;300;600;700;1000&family=Varela+Round&display=swap');
+* {
+    font-family: 'Lovers Quarrel', cursive;
+    font-family: 'Nunito', sans-serif;
+} */
